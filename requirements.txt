@@ -1,0 +1,6 @@
+scrapy
+beautifulsoup4
+nltk
+sqlite3
+pandas
+matplotlib
